@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hvv:home|Door43 (hvv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hvv|d43-hvv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hvv/archive/master.zip|d43-hvv.zip]]
+
+**Recent Changes**
+{{changes>ns = hvv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hvv|Ethnologue data]]
+
